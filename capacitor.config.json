@@ -1,0 +1,22 @@
+{
+  "appId": "com.dreamview.gallery",
+  "appName": "FoldAero",
+  "webDir": "www",
+  "backgroundColor": "#0b4fa3",
+  "loggingBehavior": "none",
+  "android": {
+    "backgroundColor": "#0b4fa3"
+  },
+  "ios": {
+    "contentInset": "never",
+    "backgroundColor": "#0b4fa3"
+  },
+  "plugins": {
+    "SystemBars": {
+      "hidden": false,
+      "style": "DARK",
+      "insetsHandling": "css",
+      "initialViewportFitValueHint": "cover"
+    }
+  }
+}

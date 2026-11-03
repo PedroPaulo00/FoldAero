@@ -1,0 +1,54 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\pedro\OneDrive\Documentos\AquariusFresh.exe\dreamview.exe\plugins\dream-media\android\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\pedro\OneDrive\Documentos\AquariusFresh.exe\dreamview.exe\plugins\dream-media\android\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		INJECTED from C:\Users\pedro\OneDrive\Documentos\AquariusFresh.exe\dreamview.exe\plugins\dream-media\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\pedro\OneDrive\Documentos\AquariusFresh.exe\dreamview.exe\plugins\dream-media\android\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\pedro\OneDrive\Documentos\AquariusFresh.exe\dreamview.exe\plugins\dream-media\android\src\main\AndroidManifest.xml:4:5-107
+	android:maxSdkVersion
+		ADDED from C:\Users\pedro\OneDrive\Documentos\AquariusFresh.exe\dreamview.exe\plugins\dream-media\android\src\main\AndroidManifest.xml:4:78-104
+	android:name
+		ADDED from C:\Users\pedro\OneDrive\Documentos\AquariusFresh.exe\dreamview.exe\plugins\dream-media\android\src\main\AndroidManifest.xml:4:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\pedro\OneDrive\Documentos\AquariusFresh.exe\dreamview.exe\plugins\dream-media\android\src\main\AndroidManifest.xml:6:5-108
+	android:maxSdkVersion
+		ADDED from C:\Users\pedro\OneDrive\Documentos\AquariusFresh.exe\dreamview.exe\plugins\dream-media\android\src\main\AndroidManifest.xml:6:79-105
+	android:name
+		ADDED from C:\Users\pedro\OneDrive\Documentos\AquariusFresh.exe\dreamview.exe\plugins\dream-media\android\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_MEDIA_IMAGES
+ADDED from C:\Users\pedro\OneDrive\Documentos\AquariusFresh.exe\dreamview.exe\plugins\dream-media\android\src\main\AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from C:\Users\pedro\OneDrive\Documentos\AquariusFresh.exe\dreamview.exe\plugins\dream-media\android\src\main\AndroidManifest.xml:8:22-73
+uses-permission#android.permission.READ_MEDIA_VIDEO
+ADDED from C:\Users\pedro\OneDrive\Documentos\AquariusFresh.exe\dreamview.exe\plugins\dream-media\android\src\main\AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from C:\Users\pedro\OneDrive\Documentos\AquariusFresh.exe\dreamview.exe\plugins\dream-media\android\src\main\AndroidManifest.xml:9:22-72
+uses-permission#android.permission.READ_MEDIA_VISUAL_USER_SELECTED
+ADDED from C:\Users\pedro\OneDrive\Documentos\AquariusFresh.exe\dreamview.exe\plugins\dream-media\android\src\main\AndroidManifest.xml:11:5-90
+	android:name
+		ADDED from C:\Users\pedro\OneDrive\Documentos\AquariusFresh.exe\dreamview.exe\plugins\dream-media\android\src\main\AndroidManifest.xml:11:22-87
+application
+ADDED from C:\Users\pedro\OneDrive\Documentos\AquariusFresh.exe\dreamview.exe\plugins\dream-media\android\src\main\AndroidManifest.xml:13:5-20:19
+activity#com.dreamview.media.PlayerActivity
+ADDED from C:\Users\pedro\OneDrive\Documentos\AquariusFresh.exe\dreamview.exe\plugins\dream-media\android\src\main\AndroidManifest.xml:14:9-19:66
+	android:screenOrientation
+		ADDED from C:\Users\pedro\OneDrive\Documentos\AquariusFresh.exe\dreamview.exe\plugins\dream-media\android\src\main\AndroidManifest.xml:17:13-49
+	android:exported
+		ADDED from C:\Users\pedro\OneDrive\Documentos\AquariusFresh.exe\dreamview.exe\plugins\dream-media\android\src\main\AndroidManifest.xml:16:13-37
+	android:configChanges
+		ADDED from C:\Users\pedro\OneDrive\Documentos\AquariusFresh.exe\dreamview.exe\plugins\dream-media\android\src\main\AndroidManifest.xml:18:13-101
+	android:theme
+		ADDED from C:\Users\pedro\OneDrive\Documentos\AquariusFresh.exe\dreamview.exe\plugins\dream-media\android\src\main\AndroidManifest.xml:19:13-63
+	android:name
+		ADDED from C:\Users\pedro\OneDrive\Documentos\AquariusFresh.exe\dreamview.exe\plugins\dream-media\android\src\main\AndroidManifest.xml:15:13-62
+uses-sdk
+INJECTED from C:\Users\pedro\OneDrive\Documentos\AquariusFresh.exe\dreamview.exe\plugins\dream-media\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\pedro\OneDrive\Documentos\AquariusFresh.exe\dreamview.exe\plugins\dream-media\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\pedro\OneDrive\Documentos\AquariusFresh.exe\dreamview.exe\plugins\dream-media\android\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\pedro\OneDrive\Documentos\AquariusFresh.exe\dreamview.exe\plugins\dream-media\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\pedro\OneDrive\Documentos\AquariusFresh.exe\dreamview.exe\plugins\dream-media\android\src\main\AndroidManifest.xml

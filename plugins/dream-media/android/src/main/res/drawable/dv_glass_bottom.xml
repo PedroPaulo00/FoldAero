@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Barra de controles no estilo do Windows Media Player 12 -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape><gradient android:angle="270" android:startColor="#F03A3E46" android:centerColor="#F5141518" android:endColor="#FA000000" /></shape>
+    </item>
+    <item android:gravity="top" android:height="1dp">
+        <shape><solid android:color="#55FFFFFF" /></shape>
+    </item>
+</layer-list>

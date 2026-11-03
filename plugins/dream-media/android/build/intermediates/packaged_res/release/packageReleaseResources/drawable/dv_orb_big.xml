@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Orbe grande no centro do vídeo (pausado / terminado, 92dp) -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <gradient android:type="radial" android:gradientRadius="58dp" android:centerX="0.5" android:centerY="0.32"
+                android:startColor="#CCA8E4FF" android:centerColor="#CC2A8EE0" android:endColor="#DD0A4A96" />
+            <stroke android:width="2dp" android:color="#E6FFFFFF" />
+        </shape>
+    </item>
+    <item android:left="14dp" android:right="14dp" android:top="4dp" android:bottom="45dp">
+        <shape android:shape="oval">
+            <gradient android:angle="270" android:startColor="#B3FFFFFF" android:endColor="#00FFFFFF" />
+        </shape>
+    </item>
+</layer-list>

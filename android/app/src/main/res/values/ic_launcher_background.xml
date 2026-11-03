@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Transparente: o logo aparece sem fundo na tela inicial e na gaveta de apps -->
+    <color name="ic_launcher_background">#00000000</color>
+</resources>

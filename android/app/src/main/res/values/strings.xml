@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">FoldAero</string>
+    <string name="title_activity_main">FoldAero</string>
+    <string name="package_name">com.dreamview.gallery</string>
+    <string name="custom_url_scheme">com.dreamview.gallery</string>
+</resources>

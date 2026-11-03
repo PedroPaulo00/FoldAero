@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.dreamview.media.dream-media-release-32:/font/roboto_medium_numbers.ttf",
+        "source": "com.dreamview.media.dream-media-media3-ui-1.11.1-1:/font/roboto_medium_numbers.ttf"
+    },
+    {
+        "merged": "com.dreamview.media.dream-media-release-32:/font/frutiger.ttf",
+        "source": "com.dreamview.media.dream-media-main-33:/font/frutiger.ttf"
+    }
+]
